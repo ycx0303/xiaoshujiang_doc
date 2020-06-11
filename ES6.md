@@ -57,8 +57,8 @@ function f() {
     Proxy是外界访问对象的拦截器，可以对外界的访问进行过滤和改写，拦截操作有13种。
    
    **ps.有空要把剩下11种学习完啊**
-    
-   [![AITvS1.th.png](https://s2.ax1x.com/2019/04/09/AITvS1.th.png)](https://imgchr.com/i/AITvS1)
+   
+   ![=200x100](./images/1591858120194.png)
 
 - get()和set()
     get参数：目标对象、属性名
